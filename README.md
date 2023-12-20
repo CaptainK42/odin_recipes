@@ -1,0 +1,1 @@
+This repo is dedicated to the first TOP HTML project. The goal with this project is to better acquaint myself with the ins and outs of coding webpages using HTML. In the end, I sould have displayed efficacy in stucturing webpages in a usable manner.
